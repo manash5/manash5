@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manash5&label=Profile%20views&color=0e75b6&style=flat" alt="manash5" /> </p>
 
 # 💫 About Me:
-💡 Deeply fascinated by AI/ML, software development, and building impactful web applications.<br><br>🌱 Learning & Growing: Neural Networks, LLMs, NLP, and AI-powered web stacks (Python, TensorFlow, PyTorch, FastAPI/Flask).<br><br>🔥 Current Focus: Experimenting with cutting-edge AI tools, developing ML models, and integrating AI into scalable web apps.<br><br>🌍 Ambition: To solve real-world problems through innovative AI-driven solutions and accessible software.
+💡 Deeply fascinated by AI/ML, software development, and building impactful web applications.<br><br>🌱 Learning & Growing: Neural Networks, LLMs, NLP, and web frameworks (Nextjs, Typescript).<br><br>🔥 Current Focus: Learning to integrate AI into scalable web apps.<br><br>🌍 Ambition: To solve real-world problems through innovative AI-driven solutions and accessible software.
 
 <br>
 
